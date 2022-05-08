@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  padding: 0;
+  /*background: url(https://cdn.glitch.me/eebb2ef6-5314-4f14-9cff-cfe844f70eea%2Fpexels-johannes-plenio-1103970.jpeg?v=1635030726966);*/
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
+  text-align: center;  
+}
+
+. loginbox{
+  width: Auto;
+  height: Auto;
+  /*background: #000;*/
+  color: #fff;
+  top: Auto;
+  left: Auto;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  box-sizing: border-box;
+}
